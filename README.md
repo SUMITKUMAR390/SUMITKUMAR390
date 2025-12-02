@@ -41,12 +41,12 @@ Check out my repositories to see various testing projects and applications I've 
 
 **B.Tech in Computer Science**
 - Parul University, Gujarat, India
-- Expected Graduation: 2025
+- Expected Graduation: 2026
 
 ### 📞 Let's Connect!
 
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [linkedin.com/in/sumit-kumar-qa](https://www.linkedin.com/in/sumit-kumar-qa)
+- 📧 Email: sumit.2003@zohomail.in
+- 💼 LinkedIn: [linkedin.com/in/sumit-kushwaha1](https://www.linkedin.com/in/sumit-kushwaha1)
 - 🐦 Twitter: [@sumitkumar_qa](https://twitter.com/sumitkumar_qa)
 - 💻 GitHub: [@SUMITKUMAR390](https://github.com/SUMITKUMAR390)
 
